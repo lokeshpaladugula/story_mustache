@@ -1,0 +1,17 @@
+{
+    "title_eng": "The hare and the tortoise story",
+    "title_tel": "కుందేలు మరియు తాబేలు కథ",
+    "cover_img": "home.jpg",
+    "pages": [
+        {
+            "english": " They are running ... running ... running...",
+            "telugu": "వారు పరుగెత్తుతున్నారు... పరుగెత్తుతున్నారు ... పరుగెత్తుతున్నారు...",
+            "image": "run.jpg"
+        },
+        {
+            "english": " Never underestimate the weakest opponent.",
+            "telugu": "బలహీనమైన ప్రత్యర్ధిని తక్కువగా అంచనా వేయకండి.",
+            "image": "win.jpg"
+        }
+    ]
+}

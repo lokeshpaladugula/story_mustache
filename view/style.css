@@ -1,0 +1,10 @@
+.next{
+ right: 80px;
+ position: absolute
+     
+}
+.previous{
+    left: 80px;
+    position: absolute
+        
+}
